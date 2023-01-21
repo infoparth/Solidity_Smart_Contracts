@@ -1,4 +1,5 @@
 # Solidity_Smart_Contracts
 Solidity Smart Contracts.
 
-Here in this Repo, I am going to add various ERC standard based smart contracts.
+This repo contains various Smart Contracts of various ERC standards.
+
